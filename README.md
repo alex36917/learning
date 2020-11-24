@@ -14,9 +14,5 @@ this is for 3rd commit
 
 5
 
-<<<<<<< HEAD
-in main: I don't know the branches were merged
-=======
 # new stuff
 learning about branching
->>>>>>> 53349362f1ba440d3995ec8c114f379686ca6cf0
