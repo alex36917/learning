@@ -16,3 +16,10 @@ this is for 3rd commit
 
 # new stuff
 learning about branching
+
+woops
+woops 2
+woops 3
+\/ woops part 2
+woops
+woops after reset number 1 (not HARD)
